@@ -12,8 +12,8 @@ https://extratorrent2.unblockninja.com
 These Extratorrent Proxy / Mirror websites are the primary copy of the primary website extratorrent.cc and contain the same data, torrents, and updates as the source domain. You can use any of these sites to unblock Extratorrent if it is blocked by your ISP or government.
 
 
-# [How to Unblock Extratorrent](http://wesharebytes.com/extratorrents-proxy-list-2020-working-proxies-to-unblock-extratorrents/)
-If the site is up and running, but it is blocked for you, you can easily unlock Extratorrent.cc by following the simple tricks below.
+# How to Unblock Extratorrent
+If the site is up and running, but it is blocked for you, you can easily [unblock Extratorrent.cc](http://wesharebytes.com/extratorrents-proxy-list-2020-working-proxies-to-unblock-extratorrents/) by following the simple tricks below.
 
 Tor browser
 TOR is a private network in which individual computers connect to the network to share bandwidth and surf the Internet anonymously. You can use the TOR browser to easily unblock any geo-restricted website like Zamunda. Simply enter the URL into your browser's address bar and press Enter. spontaneously unlocks the site for you.
