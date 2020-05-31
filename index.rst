@@ -1,32 +1,40 @@
-# Can't access Extratorrent.cc? Here is a list of Proxy sites and Extratorrent mirrors
+##################
+Can't access Extratorrent.cc? Here is a list of Proxy sites and Extratorrent mirrors
+##################
 
 ISP blocks or territorial restrictions often affect your ability to access the torrent index, and this is where the Extratorrent proxy comes in. The proxy site redirects your Internet requests through another server to the site you want to access, acting as an intermediary so that it does not appear to be trying to access a blocked IP address.
 Mirror sites work in a similar way, placing a copy of the site's original torrent index on another website, the access to which, apparently, has not yet been blocked. Both of these methods are great for unlocking access, so you can still enjoy Extratorrent shows and other types of content.
 
+*********
+List of Extratorrent Proxy / Mirror sites
+*********
 
-# List of Extratorrent Proxy / Mirror sites
+`Extratorrent Proxy 1 <https://extratorrent.unblockninja.com/>`_
 
-https://extratorrent.unblockninja.com
-
-https://extratorrent2.unblockninja.com
+`Extratorrent Proxy 2 <https://extratorrent2.unblockninja.com/>`_
 
 These Extratorrent Proxy / Mirror websites are the primary copy of the primary website extratorrent.cc and contain the same data, torrents, and updates as the source domain. You can use any of these sites to unblock Extratorrent if it is blocked by your ISP or government.
 
+*********
+How to Unblock Extratorrent
+*********
+If the site is up and running, but it is blocked for you, you can easily `unblock Extratorrent.cc <http://wesharebytes.com/extratorrents-proxy-list-2020-working-proxies-to-unblock-extratorrents/>`_ by following the simple tricks below.
 
-# How to Unblock Extratorrent
-If the site is up and running, but it is blocked for you, you can easily [unblock Extratorrent.cc](http://wesharebytes.com/extratorrents-proxy-list-2020-working-proxies-to-unblock-extratorrents/) by following the simple tricks below.
-
+=========
 Tor browser
+=========
 TOR is a private network in which individual computers connect to the network to share bandwidth and surf the Internet anonymously. You can use the TOR browser to easily unblock any geo-restricted website like Zamunda. Simply enter the URL into your browser's address bar and press Enter. spontaneously unlocks the site for you.
 
 Download TOR Browser
 
-
+=========
 Unblock via VPN
+=========
 The first step to unblock any site is to use a proxy site. However, the proxy site does not come with security. Also, they can be easily tracked. While the VPN does not pass on your personal information and does not encrypt the data. Some of the popular VPNs include Nord VPN, Cyber ​​Ghost, Tor Guard, Express VPN, Pure VPN, etc.
 
-
+=========
 Unlock it using public DNS
+=========
 This is another free and useful hack that is used to unlock any blocked site on your computer. To do this, we need a list of public DNS that are freely available on the Internet. You can use the following DNS below.
 
 
