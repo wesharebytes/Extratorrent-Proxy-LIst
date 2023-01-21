@@ -5,9 +5,9 @@ Mirror sites work in a similar way, placing a copy of the site's original torren
 
 
 # List of Extratorrent Proxy / Mirror sites
-- https://extratorrent.unblockninja.com
 
-- https://extratorrent2.unblockninja.com
+- https://extratorrent.st
+- https://extratorrent.proxyninja.org
 
 These Extratorrent Proxy / Mirror websites are the primary copy of the primary website extratorrent.cc and contain the same data, torrents, and updates as the source domain. You can use any of these sites to unblock Extratorrent if it is blocked by your ISP or government.
 
