@@ -7,9 +7,14 @@ Mirror sites work in a similar way, placing a copy of the site's original torren
 # List of Extratorrent Proxy / Mirror sites
 
 - https://extratorrent.st
+- https://ext.to (New)
 - https://extratorrent.proxyninja.org
 
 These Extratorrent Proxy / Mirror websites are the primary copy of the primary website extratorrent.cc and contain the same data, torrents, and updates as the source domain. You can use any of these sites to unblock Extratorrent if it is blocked by your ISP or government.
+
+The proxy method is a method of accessing blocked websites using an intermediary server that routes your internet traffic and masks your IP address. This helps you bypass any restrictions imposed by your ISP or government, and also provides a certain level of anonymity and security.
+
+To use the proxy method for Extratorrent, you need to find a working proxy site or mirror site that can connect you to the original website. A proxy site or mirror site is a copy of the original website hosted on a different server or domain.
 
 
 # How to Unblock Extratorrent
